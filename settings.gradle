@@ -1,0 +1,2 @@
+include ':app', ':aop_library', ':lib_aop_annotation'
+rootProject.name='AopAndProxy'
